@@ -1,0 +1,104 @@
+The name of the password cracker you used 
+John the ripper
+
+Which passwords you attacked
+Unix Passwords
+
+Where you ran it
+On my Laptop
+
+How long it ran
+It ran for 1 day 14 hours
+
+The list of passwords it cracked.
+lauran:ferrari1:1112:100:lauran sebastian:/usr/home/lauran:/bin/tcsh
+ellie:123259s:1758:100:ellie harrigan:/usr/home/ellie:/bin/tcsh
+karlyn:pokilla1:1777:100:karlyn jewell:/usr/home/karlyn:/bin/tcsh
+ethel:paulinho:2682:100:ethel cade:/usr/home/ethel:/bin/tcsh
+cristie:bilboo00:2621:100:cristie keen:/usr/home/cristie:/bin/tcsh
+millard:changeme:2791:100:millard seals:/usr/home/millard:/bin/tcsh
+lamar:myrlyn2:2134:100:lamar conway:/usr/home/lamar:/bin/tcsh
+lucretia:dowsme22:2084:100:lucretia scholl:/usr/home/lucretia:/bin/tcsh
+lisbeth:august11:2949:100:lisbeth weatherly:/usr/home/lisbeth:/bin/tcsh
+elaina:sega98:2903:100:elaina ocampo:/usr/home/elaina:/bin/tcsh
+berneice:besmart:2226:100:berneice justus:/usr/home/berneice:/bin/tcsh
+lucrecia:hoklim:1705:100:lucrecia deal:/usr/home/lucrecia:/bin/tcsh
+julianne:shuman23:2804:100:julianne pulliam:/usr/home/julianne:/bin/tcsh
+hilario:snoopy:1163:100:hilario brownell:/usr/home/hilario:/bin/tcsh
+takisha:00999:1067:100:takisha irving:/usr/home/takisha:/bin/tcsh
+tuyet:change00:2685:100:tuyet peeples:/usr/home/tuyet:/bin/tcsh
+willis:tenaya1:1075:100:willis hillis:/usr/home/willis:/bin/tcsh
+vickie:welcome1:2921:100:vickie clem:/usr/home/vickie:/bin/tcsh
+kelsey:love1799:2440:100:kelsey bickford:/usr/home/kelsey:/bin/tcsh
+kanisha:sar123:2857:100:kanisha conklin:/usr/home/kanisha:/bin/tcsh
+dorene:awesome2:2881:100:dorene fredericks:/usr/home/dorene:/bin/tcsh
+donya:aaai84:2365:100:donya larrabee:/usr/home/donya:/bin/tcsh
+alicia:jayanth1:1858:100:alicia harney:/usr/home/alicia:/bin/tcsh
+jacquetta:cris17a:2237:100:jacquetta lock:/usr/home/jacquetta:/bin/tcsh
+velda:a1b2c3d4:1711:100:velda roberge:/usr/home/velda:/bin/tcsh
+lawanda:lizard:2545:100:lawanda ontiveros:/usr/home/lawanda:/bin/tcsh
+dahlia:password:2082:100:dahlia alford:/usr/home/dahlia:/bin/tcsh
+elene:scotty23:1482:100:elene kessler:/usr/home/elene:/bin/tcsh
+pasty:london:2149:100:pasty hankins:/usr/home/pasty:/bin/tcsh
+yuri:frances:1098:100:yuri hooks:/usr/home/yuri:/bin/tcsh
+kasandra:mimi1994:2022:100:kasandra perdue:/usr/home/kasandra:/bin/tcsh
+birdie:rol1067:2567:100:birdie beall:/usr/home/birdie:/bin/tcsh
+kathi:password:2502:100:kathi latta:/usr/home/kathi:/bin/tcsh
+xenia:molly215:2774:100:xenia morales:/usr/home/xenia:/bin/tcsh
+otis:mik11e:1372:100:otis alcorn:/usr/home/otis:/bin/tcsh
+berta:raduga1:2460:100:berta duran:/usr/home/berta:/bin/tcsh
+natasha:hbr113:1643:100:natasha zambrano:/usr/home/natasha:/bin/tcsh
+chu:purpl3:1310:100:chu cates:/usr/home/chu:/bin/tcsh
+tommy:Shanghai:1453:100:tommy snipes:/usr/home/tommy:/bin/tcsh
+long:style2k:2980:100:long laplante:/usr/home/long:/bin/tcsh
+camille:maya87:2497:100:camille beverly:/usr/home/camille:/bin/tcsh
+karon:minkim01:1454:100:karon daniels:/usr/home/karon:/bin/tcsh
+lionel:linda12:1378:100:lionel fife:/usr/home/lionel:/bin/tcsh
+margareta:malloc20:2167:100:margareta pressley:/usr/home/margareta:/bin/tcsh
+donovan:abcd1234:2871:100:donovan bowens:/usr/home/donovan:/bin/tcsh
+ariel:sigma1:2196:100:ariel mace:/usr/home/ariel:/bin/tcsh
+verna:peter102:1768:100:verna rosa:/usr/home/verna:/bin/tcsh
+silas:PASSWORD:2024:100:silas durbin:/usr/home/silas:/bin/tcsh
+ty:welcome!:1936:100:ty abbott:/usr/home/ty:/bin/tcsh
+stevie:1qaz2wsx:2805:100:stevie roche:/usr/home/stevie:/bin/tcsh
+katlyn:cather12:1756:100:katlyn turnage:/usr/home/katlyn:/bin/tcsh
+lizabeth:doggles4:1830:100:lizabeth hoyt:/usr/home/lizabeth:/bin/tcsh
+brittani:toshiba6:1899:100:brittani mcadams:/usr/home/brittani:/bin/tcsh
+awilda:abcdef12:2172:100:awilda marino:/usr/home/awilda:/bin/tcsh
+agueda:12345678:2875:100:agueda roland:/usr/home/agueda:/bin/tcsh
+bernarda:aa0817:1115:100:bernarda collazo:/usr/home/bernarda:/bin/tcsh
+royal:cg3266:1655:100:royal morse:/usr/home/royal:/bin/tcsh
+eda:changeme:2748:100:eda brandenburg:/usr/home/eda:/bin/tcsh
+lindsey:mutter62:1380:100:lindsey hendon:/usr/home/lindsey:/bin/tcsh
+shelly:pr1nc355:2550:100:shelly skidmore:/usr/home/shelly:/bin/tcsh
+kanesha:bisia123:1288:100:kanesha brantley:/usr/home/kanesha:/bin/tcsh
+shirlene:kuna123:2194:100:shirlene plourde:/usr/home/shirlene:/bin/tcsh
+temika:musbo11:1318:100:temika pettit:/usr/home/temika:/bin/tcsh
+fidelia:aa12345:2590:100:fidelia carman:/usr/home/fidelia:/bin/tcsh
+robbin:paladin1:2123:100:robbin hoag:/usr/home/robbin:/bin/tcsh
+sacha:nov569:2637:100:sacha carranza:/usr/home/sacha:/bin/tcsh
+yuk:meemer81:1528:100:yuk orton:/usr/home/yuk:/bin/tcsh
+susana:cracker2:1843:100:susana chau:/usr/home/susana:/bin/tcsh
+freddie:jelly1:2155:100:freddie tobias:/usr/home/freddie:/bin/tcsh
+chandra:abcd1234:1283:100:chandra campbell:/usr/home/chandra:/bin/tcsh
+glenda:samba123:1593:100:glenda hurd:/usr/home/glenda:/bin/tcsh
+marline:luna23:2649:100:marline neville:/usr/home/marline:/bin/tcsh
+erma:passw0rd:2928:100:erma schwarz:/usr/home/erma:/bin/tcsh
+joi:mina95:2763:100:joi chapin:/usr/home/joi:/bin/tcsh
+bong:dong1020:2650:100:bong puckett:/usr/home/bong:/bin/tcsh
+pearlene:anil1974:2941:100:pearlene crowley:/usr/home/pearlene:/bin/tcsh
+deshawn:iarc94:1137:100:deshawn craig:/usr/home/deshawn:/bin/tcsh
+ayesha:manick13:1739:100:ayesha rock:/usr/home/ayesha:/bin/tcsh
+guillermina:cammi96:1724:100:guillermina jamison:/usr/home/guillermina:/bin/tcsh
+adelle:liu135:1182:100:adelle huston:/usr/home/adelle:/bin/tcsh
+margart:all4one:1238:100:margart garza:/usr/home/margart:/bin/tcsh
+elwanda:blam2112:1457:100:elwanda kirsch:/usr/home/elwanda:/bin/tcsh
+spencer:lemmen12:2014:100:spencer bauer:/usr/home/spencer:/bin/tcsh
+elsie:fukahol:1332:100:elsie carrion:/usr/home/elsie:/bin/tcsh
+nita:rahel11:2639:100:nita pounds:/usr/home/nita:/bin/tcsh
+lavenia:chiang2:2452:100:lavenia lynch:/usr/home/lavenia:/bin/tcsh
+
+86 password hashes cracked, 1051 left
+
+The number of encryptions per second you found
+4108000 Encryptions tested per second
